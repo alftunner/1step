@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+
+}
+.step1 {
+    text-align: center;
+}
+
+.test {
+    margin-top: 15vh;
+    height: 100vh;
+}
+
+.mentor4u {
+    color: #E040FB;
+    font-weight: 600;
+}
+span {
+    color: #4059FB;
+}
+
+.learn {
+    font-size: 26px;
+}
+
+input {
+    height: 5vh;
+    width: 28vh;
+    margin-top: 3vh;
+}
+.left{
+    margin-right: 2vh;
+}
+.right{
+    margin-left: 2vh;
+}
